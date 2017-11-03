@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-     echo "php tests are here with";
+     echo "php tests are here with welcome process";
         ?>
     </body>
 </html>
